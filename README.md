@@ -21,3 +21,7 @@ and finally restart the CouchDB service with this command to be executed from th
 ```ini
 net.exe stop "Apache CouchDB" && net.exe start "Apache CouchDB"
 ```
+
+Enjoy!
+
+⭐ If you liked what I did, if it was useful to you or if it served as a starting point for something more magical let me know with a star 💚
